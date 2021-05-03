@@ -21,8 +21,8 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-upload_dir: media
-public_path: "/media"
+upload_dir: upload
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
