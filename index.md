@@ -26,7 +26,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Home page image
+    alt_text: ''
   background_image: "/upload/2021/05/03/home.jpeg"
 - template: content-feature
   block: feature-1
