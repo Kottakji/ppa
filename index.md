@@ -53,25 +53,13 @@ page_sections:
   media:
     image: "/upload/2021/05/03/outdoor.jpg"
     alt_text: outdoor
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  slug: weekly_schedule
+  headline: WEEKLY SESSION SCHEDULE
+  content: "<code>| Priority apples | Second priority | Third priority | |-------|--------|---------|
+    | ambrosia | gala | red delicious | | pink lady | jazz | macintosh | | honeycrisp
+    | granny smith | fuji |</code>"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
