@@ -25,7 +25,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2021/05/03/home.jpeg"
+    image: "/upload/2021/05/03/home.jpeg"
     alt_text: Home page image
   background_image: ''
 - template: content-feature
