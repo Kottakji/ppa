@@ -51,5 +51,9 @@ page_sections:
   media:
     image: "/upload/2021/05/03/outdoor.jpg"
     alt_text: outdoor
+- template: detail-content
+  block: text-1
+  headline: WEEKLY SESSION SCHEDULE
+  content: "<pre><code>test</code></pre>"
 
 ---
