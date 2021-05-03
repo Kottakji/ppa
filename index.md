@@ -11,6 +11,12 @@ page_sections:
     link_text: Home
   - link: "#swap"
     link_text: Let's play
+  - link: "#schools"
+    link_text: Schools
+  - link: "#aboutus"
+    link_text: About us
+  - link: "#shop"
+    link_text: Shop
   cta:
     url: "#shop"
     button_text: Shop
