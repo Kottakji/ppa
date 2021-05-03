@@ -37,19 +37,17 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Ping Pong Alkmaar celebrates a wonderful 2 years of growth since the club
-    was set up in May 2018. The club has delivered multiple new initiatives over this
-    time with its outreach programmes reaching out to over 6000 people in Alkmaar..<br><br>The
-    heart of the club belongs to over 50 regular players of which over 30 are junior
-    players both boys and girls ranging from 5 to 16 years old. Our players can access
-    up to 5 training sessions per week.<br><br>Mark Smith the founder of the club
-    heads the coaching and development sections of the club. ” Its fantastic to be
-    heading Ping Pong Alkmaar, a rapidly developing community based table tennis club.
-    Together with a pro-active and ambitious management team we are developing a club
-    that recognises the benefits of ‘sport for development’ and how it can positively
-    influence people’s lives.”
+  headline: Ping Pong Alkmaar celebrates a wonderful 2 years of growth
+  content: "... since the club was set up in May 2018. The club has delivered multiple
+    new initiatives over this time with its outreach programmes reaching out to over
+    6000 people in Alkmaar..<br><br>The heart of the club belongs to over 50 regular
+    players of which over 30 are junior players both boys and girls ranging from 5
+    to 16 years old. Our players can access up to 5 training sessions per week.<br><br>Mark
+    Smith the founder of the club heads the coaching and development sections of the
+    club. ” Its fantastic to be heading Ping Pong Alkmaar, a rapidly developing community
+    based table tennis club. Together with a pro-active and ambitious management team
+    we are developing a club that recognises the benefits of ‘sport for development’
+    and how it can positively influence people’s lives.”"
   media:
     image: "/upload/2021/05/03/outdoor.jpg"
     alt_text: outdoor
