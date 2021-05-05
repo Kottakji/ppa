@@ -15,8 +15,6 @@ page_sections:
     link_text: Schools
   - link: "#aboutus"
     link_text: About us
-  - link: "#shop"
-    link_text: Shop
   cta:
     url: "#shop"
     button_text: Shop
