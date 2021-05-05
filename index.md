@@ -54,12 +54,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: WEEKLY SESSION SCHEDULE
-  content: "<p>Monday: </p><ul><li><p>Competition Players: 18:00 - 20:00</p></li></ul><p>Tuesday:</p><ul><li><p>
-    Early Birds: 07:00 - 08:00</p></li></ul><p>Wednesday: </p><ul><li><p>Girls: 15:00
-    - 16:00</p></li><li><p>Juniors: 16:15 - 17:45</p></li><li><p>Community: 19:30
-    - 21:30</p></li></ul><p>Thursday: </p><ul><li><p>Community: 19:30 - 21:30</p></li></ul><p>Friday:
-    </p><ul><li><p>Juniors: 16:15 - 17:45</p></li><li><p>Mini-Pingpongers: 19:30 -
-    21:30</p><p></p></li></ul>"
+  content: "<ul><li><p>Monday – Competition Players: 18:00 - 20:00</p></li></ul><ul><li><p>Tuesday
+    – Early Birds: 07:00 - 08:00</p></li></ul><ul><li><p>Wednesday – Girls: 15:00
+    - 16:00</p></li><li><p>Wednesday – Juniors: 16:15 - 17:45</p></li><li><p>Wednesday
+    – Community: 19:30 - 21:30</p></li></ul><ul><li><p>Thursday – Community: 19:30
+    - 21:30</p></li></ul><ul><li><p>Friday – Juniors: 16:15 - 17:45</p></li><li><p>Friday
+    – Mini-Pingpongers: 19:30 - 21:30</p><p></p></li></ul>"
 - template: 4-column-footer
   block: footer-2
   col_2: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wonderful
@@ -71,8 +71,8 @@ page_sections:
     - 16:00<br>Wednesday – Juniors: 16:15 - 17:45<br>Wednesday – Community: 19:30
     - 21:30<br>Thursday – Community: 19:30 - 21:30<br>Friday – Juniors: 16:15 - 17:45<br>Friday
     – Mini-Pingpongers: 19:30 - 21:30"
-  col_4: PingPong Alkmaar <br><a href="https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar"
-    title="Tochtwaard 18, 1824 EZ Alkmaar">Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><br><a
+  col_4: <strong>PingPong Alkmaar <br></strong><br><a href="https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar"
+    title="Tochtwaard 18, 1824 EZ Alkmaar">Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
     href="mailto:info@pingpongalkmaar.nl">info@pingpongalkmaar.nl</a>
   image: "/upload/2021/05/03/logo.png"
 
