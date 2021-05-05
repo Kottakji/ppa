@@ -54,6 +54,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: WEEKLY SESSION SCHEDULE
-  content: "<pre><code>test</code></pre>"
+  content: "<p>Monday: </p><ul><li><p>Competition Players: 18:00 - 20:00</p></li></ul><p>Tuesday:</p><ul><li><p>
+    Early Birds: 07:00 - 08:00</p></li></ul><p>Wednesday: </p><ul><li><p>Girls: 15:00
+    - 16:00</p></li><li><p>Juniors: 16:15 - 17:45</p></li><li><p>Community: 19:30
+    - 21:30</p></li></ul><p>Thursday: </p><ul><li><p>Community: 19:30 - 21:30</p></li></ul><p>Friday:
+    </p><ul><li><p>Juniors: 16:15 - 17:45</p></li><li><p>Mini-Pingpongers: 19:30 -
+    21:30</p><p></p></li></ul>"
 
 ---
