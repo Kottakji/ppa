@@ -60,10 +60,20 @@ page_sections:
     - 21:30</p></li></ul><p>Thursday: </p><ul><li><p>Community: 19:30 - 21:30</p></li></ul><p>Friday:
     </p><ul><li><p>Juniors: 16:15 - 17:45</p></li><li><p>Mini-Pingpongers: 19:30 -
     21:30</p><p></p></li></ul>"
-- template: simple-footer
-  block: footer-1
-  content: Ping Pong Alkmaar celebrates a wonderful 2 years of growth since the club
-    was set up in May 2018. The club has delivered multiple new initiatives over this
-    time with its outreach programmes reaching out to over 6000 people in Alkmaar.
+- template: 4-column-footer
+  block: footer-2
+  col_2: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wonderful
+    2 years of growth since the club was set up in May 2018. The club has delivered
+    multiple new initiatives over this time with its outreach programmes reaching
+    out to over 6000 people in Alkmaar."
+  col_3: "<strong>Weekly Session Schedule</strong><br><br>Monday – Competition Players:
+    18:00 - 20:00<br>Tuesday – Early Birds: 07:00 - 08:00<br>Wednesday – Girls: 15:00
+    - 16:00<br>Wednesday – Juniors: 16:15 - 17:45<br>Wednesday – Community: 19:30
+    - 21:30<br>Thursday – Community: 19:30 - 21:30<br>Friday – Juniors: 16:15 - 17:45<br>Friday
+    – Mini-Pingpongers: 19:30 - 21:30"
+  col_4: PingPong Alkmaar <br><a href="https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar"
+    title="Tochtwaard 18, 1824 EZ Alkmaar">Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><br><a
+    href="mailto:info@pingpongalkmaar.nl">info@pingpongalkmaar.nl</a>
+  image: "/upload/2021/05/03/logo.png"
 
 ---
