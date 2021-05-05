@@ -54,13 +54,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: WEEKLY SESSION SCHEDULE
-  content: "<ul><li><p><strong>Monday</strong> – Competition Players: 18:00 - 20:00</p></li></ul><ul><li><p><strong>Tuesday</strong>
-    – Early Birds: 07:00 - 08:00</p></li></ul><ul><li><p><strong>Wednesday</strong>
+  content: "<ul><li><p><strong>Monday</strong> – Competition Players: 18:00 - 20:00</p></li></ul><p></p><ul><li><p><strong>Tuesday</strong>
+    – Early Birds: 07:00 - 08:00</p></li></ul><p></p><ul><li><p><strong>Wednesday</strong>
     – Girls: 15:00 - 16:00</p></li><li><p><strong>Wednesday</strong> – Juniors: 16:15
-    - 17:45</p></li><li><p><strong>Wednesday</strong> – Community: 19:30 - 21:30</p></li></ul><ul><li><p><strong>Thursday</strong>
-    – Community: 19:30 - 21:30</p></li></ul><ul><li><p><strong>Friday</strong> – Juniors:
-    16:15 - 17:45</p></li><li><p><strong>Friday</strong> – Mini-Pingpongers: 19:30
-    - 21:30</p><p></p></li></ul>"
+    - 17:45</p></li><li><p><strong>Wednesday</strong> – Community: 19:30 - 21:30</p></li></ul><p></p><ul><li><p><strong>Thursday</strong>
+    – Community: 19:30 - 21:30</p></li></ul><p></p><ul><li><p><strong>Friday</strong>
+    – Juniors: 16:15 - 17:45</p></li><li><p><strong>Friday</strong> – Mini-Pingpongers:
+    19:30 - 21:30</p></li></ul><p></p>"
 - template: 4-column-footer
   block: footer-2
   col_2: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wonderful
