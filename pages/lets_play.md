@@ -9,11 +9,11 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#swap"
+  - link: "pages/lets_play.html"
     link_text: Let's play
-  - link: "#schools"
+  - link: "pages/schools.html"
     link_text: Schools
-  - link: "#aboutus"
+  - link: "pages/about_us.html"
     link_text: About us
   cta:
     url: "#shop"
