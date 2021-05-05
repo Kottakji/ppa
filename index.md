@@ -51,15 +51,6 @@ page_sections:
   media:
     image: "/upload/2021/05/03/outdoor.jpg"
     alt_text: outdoor
-- template: 1-column-text
-  block: one-column-1
-  content: "<strong>Monday</strong> – Competition Players: 18:00 - 20:00<br><strong>Tuesday</strong>
-    – Early Birds: 07:00 - 08:00<br><strong>Wednesday</strong> – Girls: 15:00 - 16:00<br><strong>Wednesday</strong>
-    – Juniors: 16:15 - 17:45<br><strong>Wednesday</strong> – Community: 19:30 - 21:30<br><strong>Thursday</strong>
-    – Community: 19:30 - 21:30<br><strong>Friday</strong> – Juniors: 16:15 - 17:45<br><strong>Friday</strong>
-    – Mini-Pingpongers: 19:30 - 21:30"
-  headline: Weekly schedule
-  slug: ''
 - template: detail-content
   block: text-1
   headline: WEEKLY SESSION SCHEDULE
