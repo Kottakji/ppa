@@ -32,6 +32,4 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- "./en-let-s-play.md"
-- en/let-s-play.md
 - index.md
