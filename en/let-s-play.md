@@ -10,6 +10,5 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-published: false
 
 ---
