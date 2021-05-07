@@ -74,6 +74,5 @@ page_sections:
     title="Tochtwaard 18, 1824 EZ Alkmaar">Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
     href="mailto:info@pingpongalkmaar.nl">info@pingpongalkmaar.nl</a>
   image: "/upload/2021/05/03/logo.png"
-published: false
 
 ---
