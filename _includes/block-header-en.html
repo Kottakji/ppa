@@ -1,16 +1,20 @@
 <header class="block block-header-2">
 
   <div class="block-header-2--logo">
-    <a href="{{ "/" | relative_url }}">
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
+    <a href="/">
+      <img src="/uploads/flags/en.png" alt="English"/>
+    </a>
+
+    <a href="/nl/home.html">
+      <img src="/uploads/flags/nl.png" alt="Nederlands"/>
     </a>
   </div>
 
   <nav class="block-header-2--nav">
     <ul>
-        {% for nav_item in site.nav_items %}
+        {% for nav_item in site.nav_items_en %}
         {% if nav_item.url == "/" %}
-        <li class="nav-item"><a href="/">{{ nav_item.text }}</a></li>
+        <li class="nav-item"><a href="/nl/home.html">{{ nav_item.text }}</a></li>
         {% else %}
         <li class="nav-item"><a href="/en/{{ nav_item.url }}">{{ nav_item.text }}</a></li>
         {% endif %}
