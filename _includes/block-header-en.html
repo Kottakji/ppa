@@ -1,0 +1,22 @@
+<header class="block block-header-2">
+
+  <div class="block-header-2--logo">
+    <a href="{{ "/" | relative_url }}">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
+    </a>
+  </div>
+
+  <nav class="block-header-2--nav">
+    <ul>
+        {% for nav_item in site.nav_items %}
+        {% if nav_item.url == "/" %}
+        <li class="nav-item"><a href="/">{{ nav_item.text }}</a></li>
+        {% else %}
+        <li class="nav-item"><a href="/en/{{ nav_item.url }}">{{ nav_item.text }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <a class="button primary small block-header-2--cta" href="{{ site.cta_url }}">{{ site.cta_text }}</a>
+  </nav>
+
+</header>

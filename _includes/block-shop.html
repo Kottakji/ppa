@@ -1,0 +1,29 @@
+<section class="block block-text-1">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        {% for item in section.items %}
+        <figure style="width:150px;">
+          <img src="{{ item.image }}" alt="{{ item.title }}" style="width:150px;">
+          <figcaption style="text-align:center;">
+            <button class="snipcart-add-item"
+                    data-item-id="{{ item.id }}"
+                    data-item-price="{{ item.price }}"
+                    data-item-url="{{ item.url }}"
+                    data-item-description="{{ item.description }}"
+                    data-item-image="{{ item.image }}"
+                    data-item-name="{{ item.title }}"
+                    data-item-custom1-name="{{ item.option }}"
+                    data-item-custom1-options="{{ item.options }}">
+                {{ section.button }}
+            </button>
+          </figcaption>
+        </figure>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<script async src="https://cdn.snipcart.com/themes/v3.1.1/default/snipcart.js"></script>
+<div id="snipcart" data-config-modal-style="side" data-api-key="NGNkYTAyMzgtOWVlNC00NDc4LTk3ZDYtMzU3MTEwY2QxZTIwNjM3NTYwNzcwNTk2MzMxNDM3" hidden></div>

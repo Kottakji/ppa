@@ -7,6 +7,24 @@
       <div class="column text">
         <h2><span class="light">{{ section.headline }}</span></h2>
         <p>{{ section.content }}</p>
+        {% if section.content2 %}
+        <p style="margin-top: 20px">{{ section.content2 }}</p>
+        {% endif %}
+        {% if section.content3 %}
+        <p style="margin-top: 20px">{{ section.content3 }}</p>
+        {% endif %}
+        {% if section.content4 %}
+        <p style="margin-top: 20px">{{ section.content4 }}</p>
+        {% endif %}
+        {% if section.content5 %}
+        <p style="margin-top: 20px">{{ section.content5 }}</p>
+        {% endif %}
+        {% if section.content6 %}
+        <p style="margin-top: 20px">{{ section.content6 }}</p>
+        {% endif %}
+        {% if section.content7 %}
+        <p style="margin-top: 20px">{{ section.content7 }}</p>
+        {% endif %}
       </div>
       <div class="column media">
         <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}" loading="lazy">
