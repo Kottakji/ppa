@@ -1,12 +1,16 @@
 <section class="block block-text-1">
   <div class="container">
     <div class="columns">
-      <div class="column">
+      <div class="column" style="display: flex; flex-wrap: wrap;">
         {% for item in section.items %}
-        <figure style="width:150px;">
+        <figure style="width:200px; margin: 1rem; text-align: center;">
           <img src="{{ item.image }}" alt="{{ item.title }}" style="width:150px;">
           <figcaption style="text-align:center;">
-            <button class="snipcart-add-item"
+            <p><strong>{{ item.title }}</strong> &euro; {{ item.price }}</p>
+            <p style="font-size: 12px; margin-bottom: 5px;">{{ item.description }}</p>
+            <button
+                    style="margin-top: 0.5rem;"
+                    class="snipcart-add-item button"
                     data-item-id="{{ item.id }}"
                     data-item-price="{{ item.price }}"
                     data-item-url="{{ item.url }}"
