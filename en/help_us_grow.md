@@ -17,7 +17,7 @@ page_sections:
 - template: content-feature
   block: one-column-1
   headline: "Development plan"
-  content: "<a target='_blank' href='/uploads/documents/development_plan_nl.pdf'>Download our development plan</a>"
+  content: "<a target='_blank' href='/uploads/documents/development_plan_en.pdf'>Download our development plan</a>"
 
 - template: content-feature
   block: feature-1
@@ -38,5 +38,5 @@ page_sections:
 - template: content-feature
   block: one-column-1
   headline: "Development plan"
-  content: "<a target='_blank' href='/uploads/documents/development_plan_nl.pdf'>Download our development plan</a>"
+  content: "<a target='_blank' href='/uploads/documents/development_plan_en.pdf'>Download our development plan</a>"
 ---
