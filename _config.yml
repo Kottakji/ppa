@@ -1,12 +1,9 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
-description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+title: Ping Pong Alkmaar
+author: Joris Kok
+email: marksmithtabletennis@gmail.com
+description: Ping Pong Alkmaar
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+url: "https://www.pingpongalkmaar.nl"
 nav_items_nl:
   -
     url: "/"
@@ -14,6 +11,12 @@ nav_items_nl:
   -
     url: "lets_play.html"
     text: "Doe mee"
+  -
+    url: "help_us_grow.html"
+    text: "Bouw mee"
+  -
+    url: "have_fun.html"
+    text: "Feest mee"
   -
     url: "schools.html"
     text: "Scholen"
@@ -29,6 +32,12 @@ nav_items_en:
     url: "lets_play.html"
     text: "Let's play"
   -
+    url: "help_us_grow.html"
+    text: "Help us grow"
+  -
+    url: "have_fun.html"
+    text: "Let's have fun"
+  -
     url: "schools.html"
     text: "Schools"
   -
@@ -39,16 +48,25 @@ logo: "/uploads/logo.png"
 cta_url_nl: "/nl/shop.html"
 cta_url_en: "/en/shop.html"
 cta_text: "Shop"
-footer_2: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wonderful
+footer_2_nl: "<strong>Over ons<br><br></strong>Ping Pong Alkmaar is de meest enthousiaste tafeltennisclub van Alkmaar en een ambitieuze sportvereniging waar iedereen welkom is"
+footer_3_nl: "<strong>Weekschema</strong><br><br>Maandag – Competitie:
+    18:00 - 20:00<br>Dinsdag – Vroege volges: 07:00 - 08:00<br>Woensdag – Speciaal voor meiden: 15:00
+    - 16:00<br>Woensdag – Jeugd: 16:15 - 17:45<br>Woensdag – Community: 19:30
+    - 21:30<br>Donderdag – Community: 19:30 - 21:30<br>Vrijdag – Jeugd: 16:15 - 17:45<br>Vrijdag
+    – Mini-Pingpongers: 19:30 - 21:30"
+footer_4_nl: "<address><strong>PingPong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
+            title='Tochtwaard 18, 1824 EZ Alkmaar'>Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
+            href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address>"
+footer_2_en: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wonderful
     2 years of growth since the club was set up in May 2018. The club has delivered
     multiple new initiatives over this time with its outreach programmes reaching
     out to over 6000 people in Alkmaar."
-footer_3: "<strong>Weekly Session Schedule</strong><br><br>Monday – Competition Players:
+footer_3_en: "<strong>Weekly Session Schedule</strong><br><br>Monday – Competition Players:
     18:00 - 20:00<br>Tuesday – Early Birds: 07:00 - 08:00<br>Wednesday – Girls: 15:00
     - 16:00<br>Wednesday – Juniors: 16:15 - 17:45<br>Wednesday – Community: 19:30
     - 21:30<br>Thursday – Community: 19:30 - 21:30<br>Friday – Juniors: 16:15 - 17:45<br>Friday
     – Mini-Pingpongers: 19:30 - 21:30"
-footer_4: "<address><strong>PingPong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
+footer_4_en: "<address><strong>PingPong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
             title='Tochtwaard 18, 1824 EZ Alkmaar'>Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
             href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address>"
 

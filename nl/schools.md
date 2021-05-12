@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Table tennis at school</strong>"
+  headline: "<strong>Tafeltennis op school</strong>"
   content: ''
   cta:
     enabled: false
@@ -18,13 +18,22 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: Schools development
-  content: "Our commitment to developing table tennis is Alkmaar’s schools is very important to the future growth, sustainability and longer term success of Ping Pong Alkmaar."
-  content2: "The benefits for school children playing regular table tennis are very clear and positive.  Playing table tennis improves hand-eye coordination, balance and motoric movement.It also is proven to increase levels of concentration, therefore both physical and mentality table tennis is a fantastic activity for the development of young people.  Schools table tennis also provides a welcome stress release for pupils in a relaxing social setting.  Table tennis (ping pong) is often used in schools for this social/relaxing function."
-  content3: "Our work in Alkmaar’s 50+ schools is ongoing every week of the year.  We systematically visit all the basis schools with our own tables delivering taster clinics for all the ages groups."
-  content4: "Starting in September 2020 we will be starting a basis school table tennis competition where by pupils get to play matches against other local basis schools.  This structured competition will lead to the winning school of Alkmaar representing Alkmaar in the NTTB national basis schools tournament."
-  content5: "Our table tennis services to secondary schools is also increasingly popular across Alkmaar.  We receive regular requests to deliver table tennis workshops/clinics in secondary schools and colleges."
-  content6: "Our regular clients include Clusius College, Willem Blaeu College, PCC College."
+  headline: "Schoolprogramma"
+  content: "Het ontwikkelen van tafeltennis binnen de basisscholen van Alkmaar is voor ons heel belangrijk. Het is de basis voor het verder laten groeien van de club en dé manier om kinderen kennis te laten maken met de positieve invloed van sporten in verenigingsverband."
+  content2: "Er zijn veel voordelen van regelmatig tafeltennis spelen voor schoolgaande kinderen. Het bevordert oog-hand coördinatie, balans en motorisch vaardigheden en het zorgt voor verbetering van je concentratieniveau. Zowel fysiek als mentaal is tafeltennis daarom een geweldige sport voor kinderen die nog volop in ontwikkeling zijn. Sporten op school zorgt ook voor de nodige ontspanning en afleiding in een relaxte sociale setting. Tafeltennis wordt door scholen vaak ingezet als sociale en ontspannende bezigheid."
+  content3: "We zijn het hele jaar door aanwezig op meer dan 50 basisscholen in Alkmaar. We bezoeken de scholen met ons eigen materiaal en geven lessen aan kinderen uit alle groepen. Kinderen kunnen zo heel makkelijk kennismaken met tafeltennis."
+  content4: "Onze tafeltennis diensten voor middelbare scholieren wordt ook steeds populairder. We krijgen regelmatig aanvragen om clinics en workshops te geven op middelbare scholen en hogescholen.Een aantal van on ze vaste locaties zijn onder andere Het Clusius College, Het Willem Blaeu College, en het PCC College."
+  media:
+    image: "/uploads/schools_2.jpg"
+    alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: "Basisschool toernooi "
+  content: "Ping Pong Alkmaar heeft voor alle kinderen uit Alkmaar ook een basisschool tafeltennis toernooi opgezet. Leerlingen spelen namens hun school in teams tegen andere scholen uit de buurt. De winnaar van de toernooi mag de eer van Alkmaar verdedigen tijdens het nationale basisschool toernooi  van de NTTB!"
+  content2: "Staat jouw school er nog niet tussen? Laat ons weten dat jij ook graag wil starten met tafeltennis op jouw school en neem contact op met Coach Mark."
   media:
     image: "/uploads/schools_2.jpg"
     alt_text: outdoor

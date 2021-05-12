@@ -30,13 +30,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: "Membership costs: Competition players"
-  headers: ["Number x per week","Number of hours per week","Costs per year in PPA (inc comp surcharge 60 euros)","Cost per hour","NTTB cont per year","Costs 6 months ( incl NTTB control)","Costs 1 year (inc NTTB)"]
-  rows: [["2","3","235","1.95","53","€ 144","€ 288"], ["3","4.5","285","1.58","53","€ 169","€ 338",],["4","6","335","1.39","53","€ 194","€ 388"]]
+  headers: ["For 6 months","For 1 year"]
+  rows: [["€ 144","€ 288"], ["€ 169","€ 338",],["€ 194","€ 388"]]
 - template: detail-content
   block: text-1
   headline: "Membership costs: Non-Competition players"
-  headers: ["Number x per week","Number of hours per week","Costs per year in PPA (inc comp surcharge 60 euros)","Cost per hour","NTTB cont per year","Costs 6 months ( incl NTTB control)","Costs 1 year (inc NTTB)"]
-  rows: [["2","3","235","1.95","53","€ 144","€ 288"], ["3","4.5","285","1.58","53","€ 169","€ 338",],["4","6","335","1.39","53","€ 194","€ 388"]]
+  headers: ["For 6 months","For 1 year"]
+  rows: [["€ 144","€ 288"], ["€ 169","€ 338",],["€ 194","€ 388"]]
 - template: content-feature
   block: one-column-1
   headline: "Join us"

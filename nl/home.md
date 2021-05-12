@@ -34,5 +34,61 @@ page_sections:
   block: text-1
   headline: Weekschema lessen
   rows: [["Maandag","Competitie","18:00 tot 20:00"], ["Dinsdag","Vroege vogels","07:00 tot 08:00"], ["Woensdag","Speciaal voor meiden","15:00 tot 16:00"], ["", "Jeugd","16:15 tot 17:45"], ["","Community","19:30 tot 21:30"], ["Donderdag","Community","19:30 tot 21:30"], ["Vrijdag","Jeugd spelers","16:15 tot 17:45"], ["", "Mini-Pingpongers","19:30 tot 21:30"]]
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: "Mini Pingpongers"
+  content: "Je bent nooit te jong voor ping pong! Een les speciaal voor jonge spelers tussen de 4 en 7 jaar. De lessen zijn gericht op het ontwikkelen van motorische vaardigheden en coördinatie. We oefenen door verschillende spelletjes te doen waarbij we gekke materialen gebruikt zoals ballonnen paraplu’s."
+  media:
+    image: "/uploads/mini_pingpong.jpg"
+    alt_text: outdoor
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: swap
+  headline: "Speciaal voor meiden"
+  content: "Meiden en vrouwen zijn nu nog ondervertegenwoordigd in tafeltennis. Daarom is deze les speciaal voor meiden om aan ze te moedigen meer te sporten en te bewegen. De lessen richten zich door middel van toegankelijke spelletjes op fysieke, technische en tactische ontwikkeling. Tijdens de les spelen we ook tafeltennis op muziek die kinderen leuk vinden, zo dansen we de lessen door!"
+  media:
+    image: "/uploads/girls.jpg"
+    alt_text: outdoor
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: "Jeugd"
+  content: "Onze jeugdlessen zijn inclusieve sessies voor kinderen van alle niveau’s. De lessen zijn ingericht op het combineren van technische vaardigheden met  verschillende grappige spellen.  Zo houden we de lessen leuk en stijgt het niveau van de spelers. We werken met speciale Chinese trainingsmethodes zoals ‘multi-ball’ en ‘robot training’. Hiermee werken onze jonge spelers aan zowel de fysieke als technische kanten van het spel."
+  media:
+    image: "/uploads/youth.jpg"
+    alt_text: outdoor
 
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: swap
+  headline: "Community"
+  content: "Open lessen voor alle niveaus, capaciteiten en leeftijden. De les start met een groepstraining van 40 minuten gevolgd door vrij spelen  en individuele coaching van trainer Mark Smith. We nodigen ook graag aspirant spelers met een beperking uit om mee te doen.  Iedereen is welkom om tijdens deze open lessen te komen kijken en gezellig mee te spelen!"
+  media:
+    image: "/uploads/community.jpg"
+    alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: "Vroege vogels"
+  content: "Een geweldige manier om je dag te starten! Voor je naar school of werk gaat lekker trainen.Deze lessen zijn open voor spelers van alle niveaus en leeftijden. Als antwoord op de vraag van onze leden voor de mogelijkheid om vroeg op de dag te trainen hebben we deze Vroege Vogels sessies toegevoegd aan ons lesaanbod. We spelen op inspirerende muziek waardoor je lijf en hoofd wakker worden geschud en je jouw dag vol positieve energie begint. "
+  media:
+    image: "/uploads/early_birds.png"
+    alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: swap
+  headline: "Competitiespelers"
+  content: "Intensieve trainingssessies die gericht zijn om competitiespelers het beste uit zichzelf te halen. We richten ons op de technisch, tactische en fysieke ontwikkelingen. Als speler ontwikkel je bij ons een top sport mentaliteit en krijg je toegang tot trainingsmethodes van het hoogste niveau."
+  media:
+    image: "/uploads/competition.jpg"
+    alt_text: outdoor
 ---

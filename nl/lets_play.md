@@ -32,6 +32,29 @@ page_sections:
   media:
     image: "/uploads/outdoor.jpg"
     alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: Jeugdfonds Sport en Cultuur Alkmaar
+  content: "Is het bedrag op de AlkmaarPas niet genoeg voor een sportvereniging of muziekles voor je kind tussen 4 en 17 jaar? Dan is er het Jeugdfonds Sport en Cultuur Alkmaar."
+  content2: "Vraag een leraar, huisarts of hulpverlener om een aanvraag bij dit fonds te doen.Gebruik de bijdrage van het fonds om contributie, kleding en benodigdheden mee te betalen.Ouders kunnen tijdelijk ook zélf € 50 aanvragen"
+  content3: "Hier vind je alle informatie over het <a href='https://jeugdfondssportencultuur.nl/fondsen/alkmaar/' target='_blank'>Jeugdfonds Sport en Cultuur Alkmaar</a>"
+  content4: "Je kunt dit bedrag gebruiken om de sportlessen bij Ping Pong Alkmaar te betalen. We helpen ouders en begeleiders graag als ze hier vragen over hebben."
+  media:
+    image: "/uploads/youth.jpg"
+    alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: swap
+  headline: "Pay & Play"
+  content: "Spelers kunnen zonder vast lidmaatschap meetrainen wanneer het hen uitkomt. Jeugdspelers (4 t/m 18 jaar)  betalen € 3,50 per les en volwassenen € 5. Je zit nergens aan vast en bent altijd welkom bij een van de community sessions."
+  media:
+    image: "/uploads/mini_pingpong.jpg"
+    alt_text: outdoor
 - template: detail-content
   block: text-1
   headline: "Lidmaatschap competitie"

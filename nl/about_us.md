@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>An inclusive community</strong>"
+  headline: "<strong>Over ons</strong>"
   content: ''
   cta:
     enabled: false
@@ -14,15 +14,52 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/about_us.jpg"
+
+- template: content-feature
+  block: one-column-1
+  headline: "De missie van Ping Pong Alkmaar "
+  content: "Mensen met plezier tafeltennis laten spelen op alle niveaus en samen een leven lang sporten."
+
+- template: content-feature
+  block: one-column-1
+  headline: "Onze waardes"
+  content: "Het omarmen van diversiteit en multiculturalisme en een positief gevoel van saamhorigheid te creëren."
+
+- template: content-feature
+  block: one-column-1
+  headline: "Inclusie"
+  content: "Spelers van 13 nationaliteiten<br>Ruimte voor alle leeftijden<br>Een veilige plek voor ondervertegenwoordigde groepen "
+
+- template: content-feature
+  block: one-column-1
+  headline: "Gemeenschap"
+  content: "Multinationale teams<br>Deelname van spelers met vluchtelingen status <br>Internationale uitwisselingen "
+
+- template: content-feature
+  block: one-column-1
+  headline: "Groei"
+  content: "Coaching op het hoogste niveau <br>Clinics voor scholen en bedrijven <br>Open toernooien voor iedereen toegankelijk"
+
 - template: content-feature
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: About the club
-  content: Ping Pong Alkmaar celebrates a wonderful 2 years of growth since the club was set up in May 2018.  The club has delivered multiple new initiatives over this time with its outreach programmes reaching out to over 6000 people in Alkmaar.
-  content2: The heart of the club belongs to over 50 regular players of which over 30 are junior players both boys and girls ranging from 5 to 16 years old.  Our players can access up to 5 training sessions per week.
-  content3: Mark Smith the founder of the club heads the coaching and development sections of the club.  ” Its fantastic to be heading Ping Pong Alkmaar, a rapidly developing community based table tennis club.  Together with a pro-active and ambitious management team we are developing a club that recognises the benefits of ‘sport for development’ and how it can positively influence people’s lives.”
+  headline: "Speellocatie"
+  content: "Adres: Tochtwaard 18, 1824 EZ Alkmaar, Netherlands"
+  content2: "Telefoon: +31 (0)6 81362917"
+  content3: "Email: info@pingpongalkmaar.nl"
   media:
     image: "/uploads/about_club_2.jpg"
+    alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: "Competitie"
+  content: "Bij Ping Pong Alkmaar speel je competitie op verschillende niveaus. De wedstrijden worden gemiddeld 20 keer per jaar gespeeld, thuis of uit. Een wedstrijd duurt ongeveer 3 uur en vinden plaats op zaterdag. De starttijden van de uitwedstrijden variëren per club."
+  content2: "De competitie richt zich op de regio Noord Holland, je reist maximaal 45 minuten naar een uitwedstrijd bij de club die het verst van Alkmaar ligt. Ouders van jeugdspelers die competitie spelen zorgen zelf voor de aanwezigheid van de speler op de uit locatie."
+  media:
+    image: "/uploads/competition.jpg"
     alt_text: outdoor
 ---

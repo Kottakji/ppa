@@ -25,4 +25,5 @@ page_sections:
   media:
     image: "/uploads/about_club_2.jpg"
     alt_text: outdoor
+
 ---
