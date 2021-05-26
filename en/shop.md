@@ -9,19 +9,17 @@ page_sections:
   items: 
     -
       id: "00001"
-      title: "Donic tape"
-      description: "Donic edging tape, 5m roll, 9mm or 12mm"
-      price: "4.00"
-      image: /uploads/shop/donic_tape.png
+      title: "Sanwei Taiji 210 Bat"
+      description: "High quality starter table tennis bat. 5 ply wooden table tennis blade, comfortable flared handle."
+      price: "17.50"
+      image: /uploads/shop/sanwei_taiji_210.jpg
       url: /en/shop.html
-      option: "Size"
-      options: "9mm|12mm"
     -
       id: "00002"
-      title: "Donic bio cleaner with donic sponge"
-      description: "Donic Bio Cleaner Table Tennis Bio Rubber Cleaner with pump spray device. Very easy to use, apply the cleaner to the rubber surface and wipe with a sponge."
-      price: "8.00"
-      image: /uploads/shop/donic_bioclean.jpg
+      title: "Sanwei TS7 Club Bat"
+      description: "Sanwei TS7 Club Bat with Case Highly recommended for club players and serious social players!Bat is made up of Sanwei T88 Semi Tacky Taiji T88 Table Tennis Rubbers. Red rubber is fast and spiny for F/hand attack and the Black rubber is slightly slower with increased control for B/hand play. Rubbers are ITTF approved. The TS7 blade is a high quality 5 ply blade made up of Black Ayous outer surface, Spruce Inner layer, and Ayous Core. Distinctive and fashionable design. Comes with case."
+      price: "32.50"
+      image: /uploads/shop/sanwei_ts7.jpg
       url: /en/shop.html
     -
       id: "00003"
@@ -202,17 +200,19 @@ page_sections:
       options: "Black 2.0mm|Red 2.0mm"
     -
       id: "00024"
-      title: "Sanwei Taiji 210 Bat"
-      description: "High quality starter table tennis bat. 5 ply wooden table tennis blade, comfortable flared handle."
-      price: "17.50"
-      image: /uploads/shop/sanwei_taiji_210.jpg
+      title: "Donic tape"
+      description: "Donic edging tape, 5m roll, 9mm or 12mm"
+      price: "4.00"
+      image: /uploads/shop/donic_tape.png
       url: /en/shop.html
+      option: "Size"
+      options: "9mm|12mm"
     -
       id: "00025"
-      title: "Sanwei TS7 Club Bat"
-      description: "Sanwei TS7 Club Bat with Case Highly recommended for club players and serious social players!Bat is made up of Sanwei T88 Semi Tacky Taiji T88 Table Tennis Rubbers. Red rubber is fast and spiny for F/hand attack and the Black rubber is slightly slower with increased control for B/hand play. Rubbers are ITTF approved. The TS7 blade is a high quality 5 ply blade made up of Black Ayous outer surface, Spruce Inner layer, and Ayous Core. Distinctive and fashionable design. Comes with case."
-      price: "32.50"
-      image: /uploads/shop/sanwei_ts7.jpg
+      title: "Donic bio cleaner with donic sponge"
+      description: "Donic Bio Cleaner Table Tennis Bio Rubber Cleaner with pump spray device. Very easy to use, apply the cleaner to the rubber surface and wipe with a sponge."
+      price: "8.00"
+      image: /uploads/shop/donic_bioclean.jpg
       url: /en/shop.html
     -
       id: "00026"
