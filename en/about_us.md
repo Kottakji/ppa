@@ -49,7 +49,7 @@ page_sections:
   content2: "Phone: +31 (0)6 81362917"
   content3: "Email: info@pingpongalkmaar.nl"
   media:
-  image: "/uploads/about_club_2.jpg"
-  alt_text: outdoor
+    image: "/uploads/about_club_2.jpg"
+    alt_text: outdoor
 
 ---
