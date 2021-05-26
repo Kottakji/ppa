@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Join the community</strong>"
+  headline: "<strong>Let's play</strong>"
   content: ''
   cta:
     enabled: false
@@ -27,6 +27,18 @@ page_sections:
   media:
     image: "/uploads/outdoor.jpg"
     alt_text: outdoor
+
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: swap
+  headline: "Competition"
+  content: "Bij Ping Pong Alkmaar speel je competitie op verschillende niveaus. De wedstrijden worden gemiddeld 20 keer per jaar gespeeld, thuis of uit. Een wedstrijd duurt ongeveer 3 uur en vinden plaats op zaterdag. De starttijden van de uitwedstrijden variëren per club."
+  content2: "De competitie richt zich op de regio Noord Holland, je reist maximaal 45 minuten naar een uitwedstrijd bij de club die het verst van Alkmaar ligt. Ouders van jeugdspelers die competitie spelen zorgen zelf voor de aanwezigheid van de speler op de uit locatie."
+  media:
+    image: "/uploads/competition.jpg"
+    alt_text: outdoor
+  
 - template: detail-content
   block: text-1
   headline: "Membership costs: Competition players"
