@@ -20,7 +20,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: Ping Pong Alkmaar celebrates a wonderful 2 years of growth
+  headline: Ping Pong Alkmaar celebrates a wonderful three years of growth
   content: "... since the club was set up in May 2018. The club has delivered multiple
     new initiatives over this time with its outreach programmes reaching out to over
     6000 people in Alkmaar..<br><br>The heart of the club belongs to over 50 regular
@@ -90,8 +90,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: "Competitiespelers"
-  content: "Intensieve trainingssessies die gericht zijn om competitiespelers het beste uit zichzelf te halen. We richten ons op de technisch, tactische en fysieke ontwikkelingen. Als speler ontwikkel je bij ons een top sport mentaliteit en krijg je toegang tot trainingsmethodes van het hoogste niveau."
+  headline: "Competition players"
+  content: "We offer intensive training sessions that are aimed at upcoming competition players. We focus on technical, tactical and physical developments, to reach a high level together."
   media:
     image: "/uploads/competition.jpg"
     alt_text: outdoor

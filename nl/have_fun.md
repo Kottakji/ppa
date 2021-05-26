@@ -39,7 +39,7 @@ page_sections:
   content: "Je huurt al een tafeltennistafel bij ons vanaf 75 euro! "
   content2: "We leveren graag maatwerk voor particulieren en bedrijven."
   content3: "Ben je benieuwd wat we voor jouw event kunnen betekenen? We horen graag van je!"
-  content4: "Neem contact op met Coach Mark Smith via  0681362917 of mail naar info@pingpongalkmaar.nl. "
+  content4: "Neem contact op via info@pingpongalkmaar.nl. "
   media:
     image: "/uploads/lets_play.jpg"
     alt_text: outdoor

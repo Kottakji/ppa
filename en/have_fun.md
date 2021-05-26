@@ -16,17 +16,14 @@ page_sections:
   background_image: "/uploads/hire_us.png"
 - template: content-feature
   block: one-column-1
-  headline: "Huur ons in"
-  content: "Stuur een email naar <a href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a> voor meer informatie over evenementen."
+  headline: "Hire us"
+  content: "Send us an email to <a href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a> for more info about events."
 - template: content-feature
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "Feest mee"
-  content: "Ping Pong Alkmaar zorgt voor jouw feest! Wij bieden alles aan, van kinderfeestjes tot corporate teambuilding events. We nemen muziek, materiaal en natuurlijk good vibes mee om van jouw event een groot succes te maken."
-  content2: "We hebben meer dan 10 jaar ervaring met het organiseren van tafeltennis activiteiten in Londen. Onze interactieve events worden op een professionele manier geleverd, opgezet en gecoördineerd door hoofdcoach Mark Smith."
-  content3: "Met hulp van onze squad van regionale en (inter)nationale spelers inspireren we met onze demo’s en spellen met veel plezier scholen en bedrijven. We zijn gespecialiseerd in het bereiken van het grote publiek door middel van vrolijke events op openbare locaties."
-  content4: "We komen naar elke binnen- of buitenlocatie met een volledige uitrustingen van tafeltennistafels, robots en leuke spellen om jullie feest onvergetelijk te maken."
+  headline: "Party with us"
+  content: "Let Ping Pong Alkmaar take care of your party. We offer everything from children parties to corporate team building events. We bring along music, materials and of course good vibes."
   media:
     image: "/uploads/company.jpg"
     alt_text: outdoor
@@ -35,11 +32,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: "Huur ons in"
-  content: "Je huurt al een tafeltennistafel bij ons vanaf 75 euro! "
-  content2: "We leveren graag maatwerk voor particulieren en bedrijven."
-  content3: "Ben je benieuwd wat we voor jouw event kunnen betekenen? We horen graag van je!"
-  content4: "Neem contact op met Coach Mark Smith via  0681362917 of mail naar info@pingpongalkmaar.nl. "
+  headline: "Hire us"
+  content: "You can rent a table from 75 euro!"
+  content2: "We provide tailor-made solutions for all your needs."
+  content3: "Would you like to know more?"
+  content4: "Contact us via info@pingpongalkmaar.nl. "
   media:
     image: "/uploads/lets_play.jpg"
     alt_text: outdoor
