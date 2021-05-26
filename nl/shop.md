@@ -211,7 +211,7 @@ page_sections:
       id: "00025"
       title: "Sanwei TS7 Club Bat"
       description: "Sanwei TS7 Club Bat with Case Highly recommended for club players and serious social players!Bat is made up of Sanwei T88 Semi Tacky Taiji T88 Table Tennis Rubbers. Red rubber is fast and spiny for F/hand attack and the Black rubber is slightly slower with increased control for B/hand play. Rubbers are ITTF approved. The TS7 blade is a high quality 5 ply blade made up of Black Ayous outer surface, Spruce Inner layer, and Ayous Core. Distinctive and fashionable design. Comes with case."
-      price: "32.00"
+      price: "32.50"
       image: /uploads/shop/sanwei_ts7.jpg
       url: /en/shop.html
     -

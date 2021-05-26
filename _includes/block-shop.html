@@ -4,12 +4,17 @@
       <div class="column" style="display: flex; flex-wrap: wrap;">
         {% for item in section.items %}
         <figure style="width:200px; margin: 1rem; text-align: center;">
-          <img src="{{ item.image }}" alt="{{ item.title }}" style="width:150px;">
-          <figcaption style="text-align:center;">
-            <p><strong>{{ item.title }}</strong> &euro; {{ item.price }}</p>
-            <p style="font-size: 12px; margin-bottom: 5px;">{{ item.description }}</p>
+          <div style="height: 150px; width: 200px;">
+            <img src="{{ item.image }}" alt="{{ item.title }}" style="max-width:200px; max-height: 150px; margin-bottom: 10px;">
+          </div>
+          <figcaption style="text-align:center; margin-bottom: 15px;">
+            <p style="height: 60px;">
+              <a data-modal="modal-{{ item.id }}">
+              <strong>{{ item.title }}</strong> &euro; {{ item.price }}
+              </a>
+            </p>
             <button
-                    style="margin-top: 0.5rem;"
+                    style="margin-top: 0.5rem; position: initial !important;"
                     class="snipcart-add-item button"
                     data-item-id="{{ item.id }}"
                     data-item-price="{{ item.price }}"
@@ -19,10 +24,18 @@
                     data-item-name="{{ item.title }}"
                     data-item-custom1-name="{{ item.option }}"
                     data-item-custom1-options="{{ item.options }}">
-                {{ section.button }}
+              {{ section.button }}
             </button>
           </figcaption>
         </figure>
+
+        <div class="modal" id="modal-{{ item.id }}">
+          <div class="modal-bg modal-exit"></div>
+          <div class="modal-container">
+            <p>{{ item.description }}</p>
+            <button class="modal-close modal-exit">X</button>
+          </div>
+        </div>
         {% endfor %}
       </div>
     </div>
@@ -32,4 +45,24 @@
 <!-- Live key snipcart -->
 <script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
 <div id="snipcart" data-config-modal-style="side" data-api-key="ZjgwYWZjOGUtMmY2Ni00Y2RmLTkwMjktMmFhZDA4MjY3NzgzNjM3NTYwNzcwNTk2MzMxNDM3" hidden></div>
+
+<!-- Modal -->
+<script>
+  var modals = document.querySelectorAll('[data-modal]');
+
+  modals.forEach(function(trigger) {
+    trigger.addEventListener('click', function(event) {
+      event.preventDefault();
+      var modal = document.getElementById(trigger.dataset.modal);
+      modal.classList.add('open');
+      var exits = modal.querySelectorAll('.modal-exit');
+      exits.forEach(function(exit) {
+        exit.addEventListener('click', function(event) {
+          event.preventDefault();
+          modal.classList.remove('open');
+        });
+      });
+    });
+  });
+</script>
 
