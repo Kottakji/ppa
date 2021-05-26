@@ -204,7 +204,7 @@ page_sections:
       id: "00024"
       title: "Sanwei Taiji 210 Bat"
       description: "High quality starter table tennis bat. 5 ply wooden table tennis blade, comfortable flared handle."
-      price: "14.00"
+      price: "17.50"
       image: /uploads/shop/sanwei_taiji_210.jpg
       url: /en/shop.html
     -
