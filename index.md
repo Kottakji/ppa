@@ -1,17 +1,17 @@
 ---
-layout: en
+layout: nl
 title: Home
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Welcome to Ping Pong Alkmaar</strong>"
+  headline: "<strong>Doe met ons mee!</strong>"
   content: ''
   cta:
     enabled: true
-    url: /en/lets_play.html
-    button_text: Join us
+    url: /nl/lets_play.html
+    button_text: Doe met ons mee 
   image:
     image: ''
     alt_text: ''
@@ -20,30 +20,26 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: Ping Pong Alkmaar celebrates a wonderful 2 years of growth
-  content: "... since the club was set up in May 2018. The club has delivered multiple
-    new initiatives over this time with its outreach programmes reaching out to over
-    6000 people in Alkmaar..<br><br>The heart of the club belongs to over 50 regular
-    players of which over 30 are junior players both boys and girls ranging from 5
-    to 16 years old. Our players can access up to 5 training sessions per week.<br><br>Mark
-    Smith the founder of the club heads the coaching and development sections of the
-    club. ” Its fantastic to be heading Ping Pong Alkmaar, a rapidly developing community
-    based table tennis club. Together with a pro-active and ambitious management team
-    we are developing a club that recognises the benefits of ‘sport for development’
-    and how it can positively influence people’s lives.”"
+  headline: "Ping Pong Alkmaar"
+  content: "Ping Pong Alkmaar is de meest enthousiaste tafeltennisclub van Alkmaar en een ambitieuze sportvereniging waar iedereen welkom is."
+  content2: "Sinds de oprichting in mei 2018 zijn we enorm gegroeid. De club heeft verschillende nieuwe initiatieven opgezet en we hebben met onze programma’s waarmee we de wijk ingaan meer dan 6000 mensen in Alkmaar bereikt."
+  content3: "De kern van onze vereniging bestaat uit 50 vaste spelers waarvan 30 jongens en meiden tussen de 5 en 16 jaar. Als lid van onze club kun je 5 dagen in de week komen trainingen."
+  content4: "Mark Smith is de oprichter van Ping Pong Alkmaar. Hij is de hoofdcoach en jaagt nieuwe ontwikkelingen binnen de vereniging aan. "
+  content5: "“Het is geweldig om elke dag bezig te zijn met Ping Pong Alkmaar. We zijn een snel groeiende tafeltennis club met stevige wortels in de lokale gemeenschap. Samen met een pro-actief en ambitieus team bouwen we aan een nieuw soort sportvereniging omdat we geloven in de kracht van sport als verbindende factor en de positief invloed daarvan op het leven van mensen.”"
+  content6: Doe je ook met ons mee? Iedereen is welkom!
   media:
     image: "/uploads/home_2.jpg"
     alt_text: outdoor
 - template: detail-content
   block: text-1
-  headline: WEEKLY SESSION SCHEDULE
-  rows: [["Monday:","Competition Players","18:00 to 20:00"], ["Tuesday","Early Birds","07:00 to 08:00"], ["Wednesday","Girls","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"], ["","Community","19:30 to 21:30"], ["Thursday","Community","19:30 to 21:30"], ["Friday","Juniors","16:15 to 17:45"], ["", "Mini-Pingpongers","19:30 to 21:30",]]
+  headline: Weekschema lessen
+  rows: [["Maandag","Competitie","18:00 tot 20:00"], ["Dinsdag","Vroege vogels","07:00 tot 08:00"], ["Woensdag","Speciaal voor meiden","15:00 tot 16:00"], ["", "Jeugd","16:15 tot 17:45"], ["","Community","19:30 tot 21:30"], ["Vrijdag","Jeugd spelers","16:15 tot 17:45"], ["", "Mini-Pingpongers","19:30 tot 21:30"]]
 - template: content-feature
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "Mini"
-  content: "This session is for children ages between 4 and 7 years. It focuses on using ping pong to develop basic motoric movement and coordination. Lots of fun games using different materials from balloons to umbrella’s!"
+  headline: "Mini Pingpongers"
+  content: "Je bent nooit te jong voor ping pong! Een les speciaal voor jonge spelers tussen de 4 en 7 jaar. De lessen zijn gericht op het ontwikkelen van motorische vaardigheden en coördinatie. We oefenen door verschillende spelletjes te doen waarbij we gekke materialen gebruikt zoals ballonnen paraplu’s."
   media:
     image: "/uploads/mini_pingpong.jpg"
     alt_text: outdoor
@@ -51,8 +47,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: "Girls"
-  content: "Girls (and women) are under-represented in table tennis! Therefore this session is only for girls. The session focuses on fun games both physical, technical and tactical and also combines table tennis with children’s popular music!"
+  headline: "Speciaal voor meiden"
+  content: "Meiden en vrouwen zijn nu nog ondervertegenwoordigd in tafeltennis. Daarom is deze les speciaal voor meiden om aan ze te moedigen meer te sporten en te bewegen. De lessen richten zich door middel van toegankelijke spelletjes op fysieke, technische en tactische ontwikkeling. Tijdens de les spelen we ook tafeltennis op muziek die kinderen leuk vinden, zo dansen we de lessen door!"
   media:
     image: "/uploads/girls.jpg"
     alt_text: outdoor
@@ -60,8 +56,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "Youth"
-  content: "Our junior sessions are inclusive sessions for youngsters of all levels.  Sessions are structured to include ‘technical skills’ together with fun games to maximise the enjoyment and therefore improvement levels of our youngsters.  Chinese training methods are used during the sessions including ‘multi-ball’ and ‘robot training’ to focus all players on physical and technical areas of the game."
+  headline: "Jeugd"
+  content: "Onze jeugdlessen zijn inclusieve sessies voor kinderen van alle niveau’s. De lessen zijn ingericht op het combineren van technische vaardigheden met  verschillende grappige spellen.  Zo houden we de lessen leuk en stijgt het niveau van de spelers. We werken met speciale Chinese trainingsmethodes zoals ‘multi-ball’ en ‘robot training’. Hiermee werken onze jonge spelers aan zowel de fysieke als technische kanten van het spel."
   media:
     image: "/uploads/youth.jpg"
     alt_text: outdoor
@@ -71,7 +67,7 @@ page_sections:
   media_alignment: Right
   slug: swap
   headline: "Community"
-  content: "This session is for competition players aiming to reach their full potential.  Session intensity is high focusing on technical, tactical and physical development of the players.  Players learn to develop a ‘top sport’ mentality to give them the knowledge of high level training methods to reach the higher levels of the game."
+  content: "Open lessen voor alle niveaus, capaciteiten en leeftijden. De les start met een groepstraining van 40 minuten gevolgd door vrij spelen  en individuele coaching van trainer Mark Smith. We nodigen ook graag aspirant spelers met een beperking uit om mee te doen.  Iedereen is welkom om tijdens deze open lessen te komen kijken en gezellig mee te spelen!"
   media:
     image: "/uploads/community.jpg"
     alt_text: outdoor
@@ -80,8 +76,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "Early birds"
-  content: "For all players to access, a great way to start the day before work, school etc. This session is a new addition to our offerings set up on demand from our members wanting a once a week early training option.  With music to help get body and mind flowing the session is a uplifting start to the day."
+  headline: "Vroege vogels"
+  content: "Een geweldige manier om je dag te starten! Voor je naar school of werk gaat lekker trainen.Deze lessen zijn open voor spelers van alle niveaus en leeftijden. Als antwoord op de vraag van onze leden voor de mogelijkheid om vroeg op de dag te trainen hebben we deze Vroege Vogels sessies toegevoegd aan ons lesaanbod. We spelen op inspirerende muziek waardoor je lijf en hoofd wakker worden geschud en je jouw dag vol positieve energie begint. "
   media:
     image: "/uploads/early_birds.png"
     alt_text: outdoor
