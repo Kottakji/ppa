@@ -9,3 +9,5 @@ site/public/
 dist/
 .tmp/
 _site/
+
+.idea/
