@@ -6,24 +6,50 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>An inclusive community</strong>"
+  headline: "<strong>About us</strong>"
   content: ''
   cta:
-    enabled: false
+  enabled: false
   image:
-    image: ''
-    alt_text: ''
+  image: ''
+  alt_text: ''
   background_image: "/uploads/about_us.jpg"
+
+- template: content-feature
+  block: one-column-1
+  headline: "Our mission"
+  content: "To enjoy table tennis together on all levels."
+
+- template: content-feature
+  block: one-column-1
+  headline: "Our values"
+  content: "Embrace diversity and multiculturalism and create a sense of belonging."
+
+- template: content-feature
+  block: one-column-1
+  headline: "Inclusion"
+  content: "Player with 13+ nationalities.<br>For all ages.<br>A safe place for all underrepresented groups."
+
+- template: content-feature
+  block: one-column-1
+  headline: "Community"
+  content: "Multinational teams.<br>Participation with refugee groups.<br>International exchange."
+
+- template: content-feature
+  block: one-column-1
+  headline: "Growth"
+  content: "Coaching on the highest level.<br>Clinics for schools and companies.<br>Open tournaments accessible for everyone."
+
 - template: content-feature
   block: feature-1
   media_alignment: Right
   slug: swap
-  headline: About the club
-  content: Ping Pong Alkmaar celebrates a wonderful three years of growth since the club was set up in May 2018.  The club has delivered multiple new initiatives over this time, with its outreach programmes reaching out to over 6000 people in Alkmaar.
-  content2: The heart of the club belongs to over 50 regular players of which 30+ are junior players both boys and girls ranging from 5 to 16 years old.  Our players can access up to 5 training sessions per week.
-  content3: Mark Smith the founder of the club heads the coaching and development sections of the club.  ” Its fantastic to be heading Ping Pong Alkmaar, a rapidly developing community based table tennis club.  Together with a pro-active and ambitious management team we are developing a club that recognises the benefits of ‘sport for development’ and how it can positively influence people’s lives.”
+  headline: "Location"
+  content: "Address: Tochtwaard 18, 1824 EZ Alkmaar, Netherlands"
+  content2: "Phone: +31 (0)6 81362917"
+  content3: "Email: info@pingpongalkmaar.nl"
   media:
-    image: "/uploads/about_club_2.jpg"
-    alt_text: outdoor
+  image: "/uploads/about_club_2.jpg"
+  alt_text: outdoor
 
 ---

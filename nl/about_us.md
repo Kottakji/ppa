@@ -28,17 +28,17 @@ page_sections:
 - template: content-feature
   block: one-column-1
   headline: "Inclusie"
-  content: "Spelers van 13 nationaliteiten<br>Ruimte voor alle leeftijden<br>Een veilige plek voor ondervertegenwoordigde groepen "
+  content: "Spelers van 13 nationaliteiten.<br>Ruimte voor alle leeftijden.<br>Een veilige plek voor ondervertegenwoordigde groepen."
 
 - template: content-feature
   block: one-column-1
   headline: "Gemeenschap"
-  content: "Multinationale teams<br>Deelname van spelers met vluchtelingen status <br>Internationale uitwisselingen "
+  content: "Multinationale teams.<br>Deelname van spelers met vluchtelingen status.<br>Internationale uitwisselingen."
 
 - template: content-feature
   block: one-column-1
   headline: "Groei"
-  content: "Coaching op het hoogste niveau <br>Clinics voor scholen en bedrijven <br>Open toernooien voor iedereen toegankelijk"
+  content: "Coaching op het hoogste niveau.<br>Clinics voor scholen en bedrijven.<br>Open toernooien voor iedereen toegankelijk."
 
 - template: content-feature
   block: feature-1
@@ -50,16 +50,5 @@ page_sections:
   content3: "Email: info@pingpongalkmaar.nl"
   media:
     image: "/uploads/about_club_2.jpg"
-    alt_text: outdoor
-
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: "Competitie"
-  content: "Bij Ping Pong Alkmaar speel je competitie op verschillende niveaus. De wedstrijden worden gemiddeld 20 keer per jaar gespeeld, thuis of uit. Een wedstrijd duurt ongeveer 3 uur en vinden plaats op zaterdag. De starttijden van de uitwedstrijden variëren per club."
-  content2: "De competitie richt zich op de regio Noord Holland, je reist maximaal 45 minuten naar een uitwedstrijd bij de club die het verst van Alkmaar ligt. Ouders van jeugdspelers die competitie spelen zorgen zelf voor de aanwezigheid van de speler op de uit locatie."
-  media:
-    image: "/uploads/competition.jpg"
     alt_text: outdoor
 ---
