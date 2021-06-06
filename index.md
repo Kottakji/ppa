@@ -33,7 +33,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Weekschema lessen
-  rows: [["Maandag","Competitie","18:00 tot 20:00"], ["Dinsdag","Vroege vogels","07:00 tot 08:00"], ["Woensdag","Speciaal voor meiden","15:00 tot 16:00"], ["", "Jeugd","16:15 tot 17:45"], ["","Community","19:30 tot 21:30"], ["Vrijdag","Jeugd spelers","16:15 tot 17:45"], ["", "Mini-Pingpongers","19:30 tot 21:30"]]
+  rows: [["Maandag","Competitie","18:00 tot 20:00"], ["Dinsdag","Vroege vogels","07:00 tot 08:00"], ["Woensdag","Speciaal voor meiden","15:00 tot 16:00"], ["", "Jeugd","16:15 tot 17:45"], ["","Community","19:30 tot 21:30"], ["Vrijdag", "Mini-Pingpongers","15:00 tot 16:00"], ["","Jeugd spelers","16:15 tot 17:45"]]
 - template: content-feature
   block: feature-1
   media_alignment: Left

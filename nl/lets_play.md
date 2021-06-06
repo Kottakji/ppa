@@ -76,7 +76,7 @@ page_sections:
   block: text-1
   headline: "Lidmaatschap zonder competitie"
   headers: ["Voor 6 maanden","Voor 1 jaar"]
-  rows: [["€ 144","€ 288"], ["€ 169","€ 338",],["€ 194","€ 388"]]
+  rows: [["€ 59","€ 119"], ["€ 97","€ 194",],["€ 122","€ 244"]]
 - template: content-feature
   block: one-column-1
   headline: "Doe mee"
