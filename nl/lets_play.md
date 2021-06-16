@@ -70,13 +70,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: "Lidmaatschap competitie"
-  headers: ["Voor 6 maanden","Voor 1 jaar"]
-  rows: [["€ 144","€ 288"], ["€ 169","€ 338",],["€ 194","€ 388"]]
+  headers: ["Aantal x per week", "Voor 6 maanden","Voor 1 jaar"]
+  rows: [["2", "€ 144","€ 288"], ["3", "€ 169","€ 338",],["4", "€ 194","€ 388"]]
 - template: detail-content
   block: text-1
   headline: "Lidmaatschap zonder competitie"
-  headers: ["Voor 6 maanden","Voor 1 jaar"]
-  rows: [["€ 59","€ 119"], ["€ 97","€ 194",],["€ 122","€ 244"]]
+  headers: ["Aantal x per week", "Voor 6 maanden","Voor 1 jaar"]
+  rows: [["2", "€ 59","€ 119"], ["3", "€ 97","€ 194",],["4", "€ 122","€ 244"]]
 - template: content-feature
   block: one-column-1
   headline: "Doe mee"

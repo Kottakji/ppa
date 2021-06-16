@@ -42,13 +42,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: "Membership costs: Competition players"
-  headers: ["For 6 months","For 1 year"]
-  rows: [["€ 144","€ 288"], ["€ 169","€ 338",],["€ 194","€ 388"]]
+  headers: ["Amount of weekly sessions", "For 6 months","For 1 year"]
+  rows: [["2", "€ 144","€ 288"], ["3", "€ 169","€ 338",],["4", "€ 194","€ 388"]]
 - template: detail-content
   block: text-1
   headline: "Membership costs: Non-Competition players"
-  headers: ["For 6 months","For 1 year"]
-  rows: [["€ 59","€ 119"], ["€ 97","€ 194",],["€ 122","€ 244"]]
+  headers: ["Amount of weekly sessions", "For 6 months","For 1 year"]
+  rows: [["2", "€ 59","€ 119"], ["3", € 97","€ 194",],["4", "€ 122","€ 244"]]
 - template: content-feature
   block: one-column-1
   headline: "Join us"
