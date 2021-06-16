@@ -48,7 +48,7 @@ page_sections:
   block: text-1
   headline: "Membership costs: Non-Competition players"
   headers: ["Amount of weekly sessions", "For 6 months","For 1 year"]
-  rows: [["2", "€ 59","€ 119"], ["3", € 97","€ 194",],["4", "€ 122","€ 244"]]
+  rows: [["2", "€ 59","€ 119"], ["3", "€ 97","€ 194",],["4", "€ 122","€ 244"]]
 - template: content-feature
   block: one-column-1
   headline: "Join us"
