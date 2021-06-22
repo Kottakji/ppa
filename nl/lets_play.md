@@ -27,7 +27,6 @@ page_sections:
   content2: "De eerste drie proeflessen zijn altijd gratis. Zo kun jij ontdekken hoe leuk tafeltennis is en de sfeer proeven bij onze trainingen"
   content3: "De gemeente <strong>Alkmaar</strong> helpt kinderen die willen sporten met het betalen van het lidmaatschap. Als je hiervoor in aanmerking komt en automatisch een gratis <strong>AlkmaarPas</strong> ontvangen hebt dan krijgen jouw kinderen hun eigen pas. Op de AlkmaarPas staat een tegoed voor kinderen om sportlessen van te betalen."
   content4: "Je kunt dit bedrag gebruiken om de sportlessen bij Ping Pong Alkmaar te betalen. We helpen ouders en begeleiders graag als ze hier vragen over hebben."
-  content5: "Kinderen van 4 t/m 11 jaar.<br>€ 135,-<br>kinderen van 12 t/m 17 jaar.<br>€ 107,-"
   content6: "Als je in aanmerking komt maar de Alkmaarpas niet automatisch ontvangen hebt neem dan contact op met <a href='https://www.haltewerk.nl/alkmaarpas' target='_blank'>Halte Werk</a>"
   media:
     image: "/uploads/outdoor.jpg"
