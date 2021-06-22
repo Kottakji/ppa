@@ -38,17 +38,17 @@ page_sections:
   media:
     image: "/uploads/competition.jpg"
     alt_text: outdoor
-  
+
 - template: detail-content
   block: text-1
-  headline: "Membership costs: Competition players"
-  headers: ["Amount of weekly sessions", "For 6 months","For 1 year"]
-  rows: [["2", "€ 144","€ 288"], ["3", "€ 169","€ 338",],["4", "€ 194","€ 388"]]
+  headline: "Pay to Play"
+  headers: ["Mini-Pingpongers", "Girls","Youth", "Community"]
+  rows: [["€ 3,50","€ 3,50", "€ 3,50","€ 5,00"]]
 - template: detail-content
   block: text-1
-  headline: "Membership costs: Non-Competition players"
-  headers: ["Amount of weekly sessions", "For 6 months","For 1 year"]
-  rows: [["2", "€ 59","€ 119"], ["3", "€ 97","€ 194",],["4", "€ 122","€ 244"]]
+  headline: "Membership costs"
+  headers: ["Membership", "Amount of weekly sessions", "For 6 months", "For 1 year"]
+  rows: [["Youth Non-Competition players", "1", "€ 60","€ 120"], ["Youth Non-Competition players","2", "€ 145","€ 290"], ["Youth Competition players", "2", "€ 97,50","€ 195,00"], ["Youth Competition players", "3", "€ 170,00","€ 340,00"], ["Senior Non-Competition players", "1", "€ 70,00","€ 140,00"], ["Senior Competition players", "1", "€ 87,00","€ 174,00"], ["Senior Competition players", "2", "€ 155,00","€ 310,00"], ["Senior Competition players", "3", "€ 180,00","€ 360,00"]]
 - template: content-feature
   block: one-column-1
   headline: "Join us"

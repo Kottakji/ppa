@@ -69,14 +69,15 @@ page_sections:
 
 - template: detail-content
   block: text-1
-  headline: "Lidmaatschap competitie"
-  headers: ["Aantal x per week", "Voor 6 maanden","Voor 1 jaar"]
-  rows: [["2", "€ 144","€ 288"], ["3", "€ 169","€ 338",],["4", "€ 194","€ 388"]]
+  headline: "Pay to Play"
+  headers: ["Mini-Pingpongers", "Meisjes","Jeugd", "Community"]
+  rows: [["€ 3,50","€ 3,50", "€ 3,50","€ 5,00"]]
 - template: detail-content
   block: text-1
-  headline: "Lidmaatschap zonder competitie"
-  headers: ["Aantal x per week", "Voor 6 maanden","Voor 1 jaar"]
-  rows: [["2", "€ 59","€ 119"], ["3", "€ 97","€ 194",],["4", "€ 122","€ 244"]]
+  headline: "Membership costs"
+  headers: ["Membership", "Aantal wekelijkse sessies", "Per 6 maanden", "Per jaar"]
+  rows: [["Jeugd Niet-Competitie spelers", "1", "€ 60","€ 120"], ["Jeugd Niet-Competitie spelers","2", "€ 145","€ 290"], ["Jeugd Competitie spelers", "2", "€ 97,50","€ 195,00"], ["Jeugd Competitie spelers", "3", "€ 170,00","€ 340,00"], ["Senior Niet-Competitie spelers", "1", "€ 70,00","€ 140,00"], ["Senior Competitie spelers", "1", "€ 87,00","€ 174,00"], ["Senior Competitie spelers", "2", "€ 155,00","€ 310,00"], ["Senior Competitie spelers", "3", "€ 180,00","€ 360,00"]]
+
 - template: content-feature
   block: one-column-1
   headline: "Doe mee"
