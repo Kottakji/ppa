@@ -25,16 +25,7 @@ page_sections:
       id: "00003"
       title: "Donic bluefire M1"
       description: "The blue miracle. DONIC new Bluefire range is a completely new rubber development offering top speed. A new high-tech generation of rubbers in the proven Formula FD3-technology has been developed as a result of the perfect combination of the large pored blue sponge with an extremely spiny top surface rubber. Above all, the Bluefire is unbelievably fast with a characteristic high arc when top-spinning that enables maximum spin and increased speed yet still great feeling."
-      price: "37.00"
-      image: /uploads/shop/donic_bluefire.jpg
-      url: /en/shop.html
-      option: "Color & Thickness"
-      options: "Black 2.0mm|Red 2.0mm|Black MAX|Red MAX"
-    -
-      id: "00004"
-      title: "Donic bluefire M2"
-      description: "The blue miracle. The new DONIC Bluefire rubber range is a completely new rubber development offering top speed and spin as a result of the perfect combination of the large pored blue sponge with an extremely spinny top surface rubber. Bluefire M2 has a medium hard sponge which results in excellent balance between speed, catapult effect and feeling. Recommended for offensive players that like to play with a slightly softer rubber with a lot of spin and still fast."
-      price: "37.00"
+      price: "40.00"
       image: /uploads/shop/donic_bluefire.jpg
       url: /en/shop.html
       option: "Color & Thickness"
@@ -52,20 +43,11 @@ page_sections:
       id: "00006"
       title: "Donic classic bat case"
       description: "Donic Bat Case Classic – updated version of the Donic Classic Bat Case. Long lasting nylon construction with a pocket for three table tennis balls."
-      price: "6.50"
+      price: "7.50"
       image: /uploads/shop/donic_bat_case.jpg
       url: /en/shop.html
       option: "Color"
       options: "Black|Green"
-    -
-      id: "00007"
-      title: "Donic Desto F4 Rubber"
-      description: "Donic Desto F4 Table Tennis Rubber. Recommended for ambitious juniors and players who want to switch from classic rubbers to tension rubbers for the first time. Soft, very easy to control. Technology: Half-tension surface with a soft sponge and control-elastic top sheet."
-      price: "31.00"
-      image: /uploads/shop/donic_desto.jpg
-      url: /en/shop.html
-      option: "Color & Thickness"
-      options: "Black MAX|Red MAX"
     -
       id: "00008"
       title: "Donic hard case double bat cover"
@@ -76,24 +58,6 @@ page_sections:
       option: "Color"
       options: "Black|Blue"
     -
-      id: "00009"
-      title: "Donic Persson Power AR Desto F4 Bat"
-      description: "Donic Persson Power AR Desto F4 Bat .** Recommended for players who are looking for a reasonably priced advanced level bat that suits all types of attacking playing styles. Donic Persson Power AR Blade has great feeling and speed qualities. Donic Desto F4 rubbers have excellent all-round speed, spin and ball control characteristics. The rubbers have soft sponge which results in rubbers that are easy to play with."
-      price: "85.00"
-      image: /uploads/shop/donic_persson.jpg
-      url: /en/shop.html
-      option: "Handle type & Thickness"
-      options: "Concave MAX"
-    -
-      id: "00010"
-      title: "Donic Persson Power AR V1"
-      description: "Persson PowerAR V1 Table Tennis Blade Combines aggressive characteristics with perfect ball control. A best-seller for many years. V1 for optimum speed."
-      price: "30.00"
-      image: /uploads/shop/donic_persson_2.jpg
-      url: /en/shop.html
-      option: "Handle type"
-      options: "Concave"
-    -
       id: "00011"
       title: "Donic Phase Double Bat Case"
       description: "Donic Double bat cover PHASE. Bat cover reinforced at the sides with shatter-proof material and sculptured foam padding for optimum bat protection. With two separate compartments with additional foam padding and one compartment on the back with Velcro fastening."
@@ -102,13 +66,6 @@ page_sections:
       url: /en/shop.html
       option: "Color"
       options: "Blac/Silver|Black|Blue|Grey"
-    -
-      id: "00012"
-      title: "Donic Rubber Protector Sheets"
-      description: "Protects all rubber sheets against dust, oxidation by air and drying out."
-      price: "4.00"
-      image: /uploads/shop/donic_rubber_protector.jpg
-      url: /en/shop.html
     -
       id: "00013"
       title: "Donic Tarpo Bat Case"
@@ -135,15 +92,6 @@ page_sections:
       option: "Handle type"
       options: "Concave|Straight"
     -
-      id: "00016"
-      title: "Donic Waldner Carbon Senso M2 Bat"
-      description: "Donic Waldner Carbon Senso Bluefire M2 Bat. * For the table tennis Maestro – bat used by former World & Olympic champion Jan Ove Waldner! Bat is made up of Waldner Carbon Senso V1 Blade with Bluefire M2 rubbers with the distinctive blue sponge. Recommended for players who play an attacking game with fast topspin and flare but also require control for blocking, serving and touch play!"
-      price: "125.00"
-      image: /uploads/shop/donic_waldner_2.jpg
-      url: /en/shop.html
-      option: "Handle type & Thickness"
-      options: "Concave MAX|Straight MAX"
-    -
       id: "00017"
       title: "Donic Waldner Dicon"
       description: "The Donic Waldner Dicon is a 5 ply blade designed and manufactured in Sweden. This very blade was used by Jan-Ove Waldner himself. The handle has two sections milled out giving it a unique feel."
@@ -156,18 +104,11 @@ page_sections:
       id: "00018"
       title: "Donic Waldner Exclusive Blade"
       description: "The Waldner AR combines excellent control plus speed. It is faster than the Appelgren AR and perfectly combines the power of an offensive blade with the outstanding control of an all-round blade. Suitable for attacking allrounders who like to vary their topspin in a close-to-the-table game as well as playing away from the table without loss of control."
-      price: "32.00"
+      price: "28.00"
       image: /uploads/shop/donic_waldner_exclusive.jpg
       url: /en/shop.html
       option: "Handle type"
       options: "Concave|Straight"
-    -
-      id: "00019"
-      title: "Donic Waldner Exclusive Liga Bat"
-      description: "Donic Waldner Exclusive Liga Bat. Fantastic value pre made up bat for intermediate level players and serious social players! Premium Allround Waldner Exclusive DONIC blade with LIGA rubbers."
-      price: "40.00"
-      image: /uploads/shop/donic_waldner_liga.jpg
-      url: /en/shop.html
     -
       id: "00020"
       title: "SANWEI ABS 1* 40+"
