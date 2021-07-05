@@ -34,7 +34,7 @@ page_sections:
       id: "00005"
       title: "Donic bluefire M3"
       description: "The blue miracle, DONIC Bluefire is a completely new rubber development offering top speed and spin as a result of the perfect combination of the large pored blue sponge with an extremely spiny top surface rubber. Bluefire M3 results in a perfect adjustment of the soft version with precise feel, excellent spin and perfect sound. Recommended for controlled offensive players that like to play with a soft rubber and feel the ball on the bat a fraction longer than hard rubber."
-      price: "37.00"
+      price: "40.00"
       image: /uploads/shop/donic_bluefire.jpg
       url: /en/shop.html
       option: "Color & Thickness"
