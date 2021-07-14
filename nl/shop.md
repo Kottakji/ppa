@@ -111,7 +111,7 @@ page_sections:
       options: "Concave|Straight"
     -
       id: "00020"
-      title: "SANWEI ABS 1* 40+"
+      title: "SANWEI ABS 1* 40+ x100"
       description: "TRAINING BALLS X100"
       price: "37.00"
       image: /uploads/shop/sanwei_balls.jpg
