@@ -9,6 +9,9 @@ nav_items_nl:
     url: "/"
     text: "Home"
   -
+    url: "news.html"
+    text: "Nieuws"
+  -
     url: "lets_play.html"
     text: "Doe mee"
   -
@@ -28,6 +31,9 @@ nav_items_en:
   -
     url: "/"
     text: "Home"
+  -
+    url: "news.html"
+    text: "News"
   -
     url: "lets_play.html"
     text: "Let's play"
