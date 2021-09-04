@@ -17,7 +17,7 @@ page_sections:
 - template: content-feature
   block: one-column-1
   headline: "Join us"
-  content: "Send an email to <a href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a> to join. The first 3 lessons are free."
+  content: "Use our <a href='https://twv8tr0s1ao.typeform.com/to/U7NEbIn6' target='_blank'>sign up form</a> to join. The first 3 lessons are free."
 - template: content-feature
   block: feature-1
   media_alignment: Right

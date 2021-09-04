@@ -17,7 +17,7 @@ page_sections:
 - template: content-feature
   block: one-column-1
   headline: "Doe mee"
-  content: "Stuur een email naar <a href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a> om je aan te melden. De eerste 3 lessen zijn gratis."
+  content: "Gebruik het <a href='https://twv8tr0s1ao.typeform.com/to/U7NEbIn6' target='_blank'>inschrijf formulier</a> om je aan te melden. De eerste 3 lessen zijn gratis."
 - template: content-feature
   block: feature-1
   media_alignment: Right

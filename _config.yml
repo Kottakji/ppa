@@ -62,7 +62,8 @@ footer_3_nl: "<strong>Weekschema</strong><br><br>Maandag – Competitie:
     – Jeugd: 16:15 - 17:45"
 footer_4_nl: "<address><strong>Ping Pong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
             title='Tochtwaard 18, 1824 EZ Alkmaar'>Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
-            href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address>"
+            href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address><br>
+            Schrijf je <a href='https://twv8tr0s1ao.typeform.com/to/U7NEbIn6' target='_blank'>hier</a> in!"
 footer_2_en: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wonderful
     three years of growth since the club was set up in May 2018. The club has delivered
     multiple new initiatives over this time with its outreach programmes reaching
@@ -74,7 +75,8 @@ footer_3_en: "<strong>Weekly Session Schedule</strong><br><br>Monday – Competi
     – Juniors: 16:15 - 17:45"
 footer_4_en: "<address><strong>Ping Pong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
             title='Tochtwaard 18, 1824 EZ Alkmaar'>Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
-            href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address>"
+            href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address><br>
+            Sign up <a href='https://twv8tr0s1ao.typeform.com/to/U7NEbIn6' target='_blank'>here!</a>"
 
 # Build settings
 defaults:
