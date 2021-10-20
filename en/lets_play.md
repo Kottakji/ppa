@@ -42,13 +42,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: "Pay to Play"
-  headers: ["Mini-Pingpongers", "Girls","Youth", "Community"]
-  rows: [["€ 3,50","€ 3,50", "€ 3,50","€ 5,00"]]
+  headers: ["Mini-Pingpongers", "Girls","Youth", "Old stars", "Community"]
+  rows: [["€ 3,50","€ 3,50", "€ 3,50", "€ 3,50*", "€ 5,00"]]
+  notes: "* Old stars pay a quarterly contribution to the sports association of € 5,00. A 6-month membership is also available for € 60,00, which includes the contribution."
+ 
 - template: detail-content
   block: text-1
   headline: "Membership costs"
   headers: ["Membership", "Amount of weekly sessions", "For 6 months", "For 1 year"]
-  rows: [["Youth Non-Competition players", "1", "€ 60,00","€ 120,00"], ["Youth Non-Competition players","2", "€ 97,50","€ 195,00"], ["Youth Competition players", "2", "€ 145,00","€ 290,00"], ["Youth Competition players", "3", "€ 170,00","€ 340,00"], ["Senior Non-Competition players", "1", "€ 70,00","€ 140,00"], ["Senior Competition players", "1", "€ 87,00","€ 174,00"], ["Senior Competition players", "2", "€ 155,00","€ 310,00"], ["Senior Competition players", "3", "€ 180,00","€ 360,00"]]
+  rows: [["Youth Non-Competition players", "1", "€ 60,00","€ 120,00"], ["Youth Non-Competition players","2", "€ 97,50","€ 195,00"], ["Youth Competition players", "2", "€ 145,00","€ 290,00"], ["Youth Competition players", "3", "€ 170,00","€ 340,00"], ["Senior Non-Competition players", "1", "€ 70,00","€ 140,00"], ["Senior Competition players", "1", "€ 97,00","€ 194,00"], ["Senior Competition players", "2", "€ 165,00","€ 330,00"], ["Senior Competition players", "3", "€ 190,00","€ 380,00"]]
 - template: content-feature
   block: one-column-1
   headline: "Join us"

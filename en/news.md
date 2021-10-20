@@ -15,13 +15,11 @@ page_sections:
     alt_text: ''
   background_image: "/uploads/lets_play.jpg"
 
+
 - template: content-feature
   block: one-column-1
-  headline: "Scroll down to see the latest news"
+  headline: "Vrijdag sessie"
+  content: "From now on you can play table tennis every Friday from 19.00 to 21.00 on a Pay and Play basis member or no member (5 euros adults and 3,50 youth). We will try this Friday session until Christmas holidays after that we will evaluate this session."
 
-- template: media-2
-  block: media-2
-  image_1: "/uploads/summer_holiday.jpg"
-  image_2: "/uploads/old_stars.jpg"
 
 ---

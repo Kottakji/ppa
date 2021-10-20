@@ -69,13 +69,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: "Pay to Play"
-  headers: ["Mini-Pingpongers", "Meisjes","Jeugd", "Community"]
-  rows: [["€ 3,50","€ 3,50", "€ 3,50","€ 5,00"]]
+  headers: ["Mini-Pingpongers", "Meisjes","Jeugd", "Old stars", "Community"]
+  rows: [["€ 3,50","€ 3,50", "€ 3,50", "€ 3,50*", "€ 5,00"]]
+  notes: "* Old stars betalen een bonds contribute van € 5,00 per kwartaal. Er is ook een halfjaarabonnement van € 60,00 mogelijk, waar de bondskosten bij inzitten."
+ 
 - template: detail-content
   block: text-1
   headline: "Membership costs"
   headers: ["Membership", "Aantal wekelijkse sessies", "Per 6 maanden", "Per jaar"]
-  rows: [["Jeugd Niet-Competitie spelers", "1", "€ 60,00","€ 120,00"], ["Jeugd Niet-Competitie spelers","2", "€ 97,50","€ 195,00"], ["Jeugd Competitie spelers", "2", "€ 145,00","€ 290,00"], ["Jeugd Competitie spelers", "3", "€ 170,00","€ 340,00"], ["Senior Niet-Competitie spelers", "1", "€ 70,00","€ 140,00"], ["Senior Competitie spelers", "1", "€ 87,00","€ 174,00"], ["Senior Competitie spelers", "2", "€ 155,00","€ 310,00"], ["Senior Competitie spelers", "3", "€ 180,00","€ 360,00"]]
+  rows: [["Jeugd Niet-Competitie spelers", "1", "€ 60,00","€ 120,00"], ["Jeugd Niet-Competitie spelers","2", "€ 97,50","€ 195,00"], ["Jeugd Competitie spelers", "2", "€ 145,00","€ 290,00"], ["Jeugd Competitie spelers", "3", "€ 170,00","€ 340,00"], ["Senior Niet-Competitie spelers", "1", "€ 70,00","€ 140,00"], ["Senior Competitie spelers", "1", "€ 97,00","€ 194,00"], ["Senior Competitie spelers", "2", "€ 165,00","€ 330,00"], ["Senior Competitie spelers", "3", "€ 190,00","€ 380,00"]]
 
 - template: content-feature
   block: one-column-1

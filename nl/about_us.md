@@ -39,6 +39,17 @@ page_sections:
   block: one-column-1
   headline: "Groei"
   content: "Coaching op het hoogste niveau.<br>Clinics voor scholen en bedrijven.<br>Open toernooien voor iedereen toegankelijk."
+ 
+- template: content-feature
+  block: one-column-1
+  headline: "Oprichter en bestuurslid development en trainers"
+  content: "Mark Smith <a href='mailto:mark@pingpongalkmaar.nl'>mark@pingpongalkmaar.nl</a>"
+ 
+- template: content-feature
+  block: one-column-1
+  headline: "Bestuursleden"
+  content: "Voorzitter Rob van der Horst <a href='mailto:rob@pingpongalkmaar.nl'>rob@pingpongalkmaar.nl</a><br>Secretaris Ingrid van der Horst <a href='mailto:ingrid@pingpongalkmaar.nl'>ingrid@pingpongalkmaar.nl</a><br>Penningmeester Fleur van der Horst <a href='mailto:fleur@pingpongalkmaar.nl'>fleur@pingpongalkmaar.nl</a><br>Algemeen bestuurslid Peter Stoop <a href='mailto:peter@pingpongalkmaar.nl'>peter@pingpongalkmaar.nl</a><br>"
+
 
 - template: content-feature
   block: feature-1

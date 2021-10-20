@@ -15,13 +15,10 @@ page_sections:
     alt_text: ''
   background_image: "/uploads/lets_play.jpg"
 
+
 - template: content-feature
   block: one-column-1
-  headline: "Zie hieronder het laatste nieuws"
-
-- template: media-2
-  block: media-2
-  image_1: "/uploads/summer_holiday.jpg"
-  image_2: "/uploads/old_stars.jpg"
+  headline: "Vrijdag sessie"
+  content: "Vanaf heden kun je elke vrijdag van 19.00 tot 21.00 komen tafeltennissen op Pay en Play basis, lid of geen lid (5 euro volwassene en 3,50 jeugd) er wordt geen training gegeven voor de volwassenen maar er zijn wel spelers die wat tips kunnen geven. Deze vrijdag sessie proberen wij tot aan de kerstvakantie daarna gaan wij deze vrijdag evalueren."
 
 ---
