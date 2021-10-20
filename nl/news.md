@@ -18,7 +18,7 @@ page_sections:
 
 - template: content-feature
   block: one-column-1
-  headline: "Vrijdag sessie"
+  headline: "Extra vrijdag sessie"
   content: "Vanaf heden kun je elke vrijdag van 19.00 tot 21.00 komen tafeltennissen op Pay en Play basis, lid of geen lid (5 euro volwassene en 3,50 jeugd) er wordt geen training gegeven voor de volwassenen maar er zijn wel spelers die wat tips kunnen geven. Deze vrijdag sessie proberen wij tot aan de kerstvakantie daarna gaan wij deze vrijdag evalueren."
 
 ---
