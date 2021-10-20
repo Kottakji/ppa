@@ -42,7 +42,7 @@ page_sections:
  
 - template: content-feature
   block: one-column-1
-  headline: "Oprichter en bestuurslid development en trainers"
+  headline: "Oprichter en bestuurslid"
   content: "Mark Smith <a href='mailto:mark@pingpongalkmaar.nl'>mark@pingpongalkmaar.nl</a>"
  
 - template: content-feature
