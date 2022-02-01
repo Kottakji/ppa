@@ -8,6 +8,27 @@ page_sections:
   button: "Add to cart"
   items: 
     -
+      id: "00101"
+      title: "Donic Prisma Tracksuit"
+      description: "Stylish sports suit in a body-hugging cut that is extremely comfortable to wear. The warm, elastic stretch terry material offers plenty of freedom of movement when warming up. Jacket with contrasting colored inserts and 2 side pockets with zip. Pants with elastic waistband with internal drawstring and zipper leg opening without cuffs."
+      price: "75.00"
+      image: /uploads/shop/donic_prisma_tracksuit.jpg
+      url: /en/shop.html
+    -
+      id: "00102"
+      title: "Donic Shorts Loop"
+      description: "Classic table tennis shorts made of light, elastic, functional fibre which removes perspiration from your skin to the outside of the shorts. With elastic waistband, internal drawstring and two side pockets. High freedom of movement due to the two side slits."
+      price: "27.50"
+      image: /uploads/shop/donic_shorts_loop.jpg
+      url: /en/shop.html
+    -
+      id: "00103"
+      title: "Donic Polo Shirt Stripes"
+      description: "Elastic functional polo shirt by DONIC made of melange stretch material with color contrasting insert on the front and sleeves. The elastic functional material removes sweat away from the skin and ensures that it is dry and comfortable to wear during competitions or training.  Material: 95% polyester, 5% elastane, Dryflex"
+      price: "32.50"
+      image: /uploads/shop/donic_polo_shirt_stripes.jpg
+      url: /en/shop.html
+    - 
       id: "00001"
       title: "Sanwei Taiji 210 Bat"
       description: "High quality starter table tennis bat. 5 ply wooden table tennis blade, comfortable flared handle."
