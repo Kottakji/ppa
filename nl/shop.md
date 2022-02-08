@@ -29,6 +29,13 @@ page_sections:
       image: /uploads/shop/donic_polo_shirt_stripes.jpg
       url: /en/shop.html
     -
+      id: "00104"
+      title: "Donic T-Shirt Stunner"
+      description: "Trendy round neck T-shirt made of melange stretch fabric with contrast coloured insert on the front and sleeves."
+      price: "27.50"
+      image: /uploads/shop/donic_t_shirt_stunner.jpg
+      url: /en/shop.html
+    -
       id: "00001"
       title: "Sanwei Taiji 210 Bat"
       description: "High quality starter table tennis bat. 5 ply wooden table tennis blade, comfortable flared handle."
