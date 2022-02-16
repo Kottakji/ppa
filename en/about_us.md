@@ -48,7 +48,7 @@ page_sections:
 - template: content-feature
   block: one-column-1
   headline: "Our board team"
-  content: "Rob van der Horst <a href='mailto:rob@pingpongalkmaar.nl'>rob@pingpongalkmaar.nl</a><br>Ingrid van der Horst <a href='mailto:ingrid@pingpongalkmaar.nl'>ingrid@pingpongalkmaar.nl</a><br>Fleur van der Horst <a href='mailto:fleur@pingpongalkmaar.nl'>fleur@pingpongalkmaar.nl</a><br>Peter Stoop <a href='mailto:peter@pingpongalkmaar.nl'>peter@pingpongalkmaar.nl</a><br>"
+  content: "Rob van der Horst <a href='mailto:rob@pingpongalkmaar.nl'>rob@pingpongalkmaar.nl</a><br>Ingrid van der Horst <a href='mailto:ingrid@pingpongalkmaar.nl'>ingrid@pingpongalkmaar.nl</a><br>Fleur van Holst<a href='mailto:fleur@pingpongalkmaar.nl'>fleur@pingpongalkmaar.nl</a><br>Peter Stoop <a href='mailto:peter@pingpongalkmaar.nl'>peter@pingpongalkmaar.nl</a><br>"
 
 - template: content-feature
   block: feature-1
