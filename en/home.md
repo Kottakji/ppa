@@ -37,7 +37,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: WEEKLY SESSION SCHEDULE
-  rows: [["Monday:","Competition Players","18:00 to 20:00"], ["Tuesday","Early Birds","07:00 to 08:00"], ["Wednesday","Girls","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"], ["","Community","19:30 to 21:30"], ["Friday","Mini-Pingpongers","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"]]
+  rows: [["Monday:","Competition Players","18:00 to 20:00"], ["Tuesday","Early Birds","07:00 to 08:00"], ["Wednesday","Girls","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"], ["","Community","19:30 to 21:30"], ["Friday","Mini-Pingpongers","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"], ["","Community","19:00 to 21:00"]]
 - template: content-feature
   block: feature-1
   media_alignment: Left
