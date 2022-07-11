@@ -50,7 +50,7 @@ page_sections:
   block: text-1
   headline: "Membership costs"
   headers: ["Membership", "Amount of weekly sessions", "For 6 months", "For 1 year"]
-  rows: [["Youth Non-Competition players", "1", "€ 70,00","€ 140,00"], ["Youth Non-Competition players",">1", "€ 85,00","€ 170,00"], ["Youth Competition players", "> 1", "€ 144,50","€ 289,00"], ["Senior Non-Competition players", ">1", "€ 80,00","€ 160,00"], ["Senior Competition players", ">1", "€ 107,50","€ 215,00"]]
+  rows: [["Youth Non-Competition players", "1", "€ 70,00","€ 140,00"], ["Youth Non-Competition players","> 1", "€ 85,00","€ 170,00"], ["Youth Competition players", "> 1", "€ 144,50","€ 289,00"], ["Senior Non-Competition players", "> 1", "€ 80,00","€ 160,00"], ["Senior Competition players", "> 1", "€ 107,50","€ 215,00"]]
 - template: content-feature
   block: one-column-1
   headline: "Join us"
