@@ -37,7 +37,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: WEEKLY SESSION SCHEDULE
-  rows: [["Monday:","Competition Players","18:00 to 20:00"], ["Tuesday","Early Birds","07:00 to 08:00"], ["Wednesday","Girls","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"], ["","Community","19:30 to 21:30"], ["Friday","Mini-Pingpongers","15:00 to 16:00"], ["", "Juniors","16:15 to 17:45"], ["","Community","19:00 to 21:00"]]
+  rows: [["Monday","Competition Players","18:00 - 20:00"], ["","Seniors","20:00 - 22:00"], ["Tuesday","Early Birds","07:00 - 08:00"],["","Seniors","19:30 - 21:30"],["Wednesday","Oldstars","12:30 - 13:30"],["","Girls","15:00 - 16:00"], ["", "Youth players","16:15 - 17:45"], ["","Seniors","19:30 - 21:30"], ["Friday", "Mini-Pingpongers","15:00 - 16:00"], ["","Youth players","16:15 - 17:45"], ["","Seniors","19:30 - 21:30"]]
+- template: content-feature
+  block: one-column-1
+  headline: "Agenda"
+  content: "<a target='_blank' href='/uploads/documents/agenda.xlsx'>Download the agenda</a> for a detailed schedule."
 - template: content-feature
   block: feature-1
   media_alignment: Left

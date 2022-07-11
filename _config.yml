@@ -55,11 +55,7 @@ cta_url_nl: "/nl/shop.html"
 cta_url_en: "/en/shop.html"
 cta_text: "Shop"
 footer_2_nl: "<strong>Over ons<br><br></strong>Ping Pong Alkmaar is de meest enthousiaste tafeltennisclub van Alkmaar en een ambitieuze sportvereniging waar iedereen welkom is"
-footer_3_nl: "<strong>Weekschema</strong><br><br>Maandag – Competitie:
-    18:00 - 20:00<br>Dinsdag – Vroege vogels: 07:00 - 08:00<br>Woensdag – Speciaal voor meiden: 15:00
-    - 16:00<br>Woensdag – Jeugd: 16:15 - 17:45<br>Woensdag – Community: 19:30
-    - 21:30<br>Vrijdag – Mini-Pingpongers: 15:00 - 16:00<br>Vrijdag
-    – Jeugd: 16:15 - 17:45<br>Vrijdag - Community: 19:00 - 21:00<br><br><a target='_blank' href='/uploads/documents/agenda.xlsx'>Download de agenda</a>"
+footer_3_nl: "<strong>Weekschema<br><br></strong><a href='/'>Ga naar het speel/trainings schema</a>"
 footer_4_nl: "<address><strong>Ping Pong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
             title='Tochtwaard 18, 1824 EZ Alkmaar'>Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
             href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address><br>
@@ -68,11 +64,7 @@ footer_2_en: "<strong>About us<br><br></strong>Ping Pong Alkmaar celebrates a wo
     three years of growth since the club was set up in May 2018. The club has delivered
     multiple new initiatives over this time with its outreach programmes reaching
     out to over 6000 people in Alkmaar."
-footer_3_en: "<strong>Weekly Session Schedule</strong><br><br>Monday – Competition Players:
-    18:00 - 20:00<br>Tuesday – Early Birds: 07:00 - 08:00<br>Wednesday – Girls: 15:00
-    - 16:00<br>Wednesday – Juniors: 16:15 - 17:45<br>Wednesday – Community: 19:30
-    - 21:30<br>Friday – Mini-Pingpongers: 15:00 - 16:00<br>Friday
-    – Juniors: 16:15 - 17:45<br>Friday - Community: 19:00 - 21:00"
+footer_3_en: "<strong>Weekly schedule us<br><br></strong><a href='/en/home.html'>Go to the play/training schedule</a>"
 footer_4_en: "<address><strong>Ping Pong Alkmaar <br></strong><br><a href='https://www.google.nl/maps?hl=nl&amp;q=Tochtwaard+18+1824+EZ+Alkmaar'
             title='Tochtwaard 18, 1824 EZ Alkmaar'>Tochtwaard 18, 1824 EZ Alkmaar</a><br><br><a
             href='mailto:info@pingpongalkmaar.nl'>info@pingpongalkmaar.nl</a></address><br>
