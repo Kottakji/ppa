@@ -35,6 +35,10 @@ page_sections:
   headline: Weekschema lessen
   rows: [["Maandag","Competitie","18:00 tot 20:00"], ["Dinsdag","Vroege vogels","07:00 tot 08:00"], ["Woensdag","Speciaal voor meiden","15:00 tot 16:00"], ["", "Jeugd","16:15 tot 17:45"], ["","Community","19:30 tot 21:30"], ["Vrijdag", "Mini-Pingpongers","15:00 tot 16:00"], ["","Jeugd spelers","16:15 tot 17:45"], ["","Community","19:00 tot 21:00"]]
 - template: content-feature
+  block: one-column-1
+  headline: "Agenda"
+  content: "<a target='_blank' href='/uploads/documents/agenda.xlsx'>Download de agenda</a>"
+- template: content-feature
   block: feature-1
   media_alignment: Left
   slug: swap
