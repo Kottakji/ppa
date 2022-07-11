@@ -75,8 +75,8 @@ page_sections:
  
 - template: detail-content
   block: text-1
-  headline: "Membership costs"
-  headers: ["Membership", "Aantal wekelijkse sessies", "Per 6 maanden", "Per jaar"]
+  headline: "Lidmaatschap"
+  headers: ["Type lid", "Aantal wekelijkse sessies", "Per 6 maanden", "Per jaar"]
   rows: [["Jeugd Niet-Competitie spelers", "1", "€ 70,00","€ 140,00"], ["Jeugd Niet-Competitie spelers",">1", "€ 85,00","€ 170,00"], ["Jeugd Competitie spelers", "> 1", "€ 144,50","€ 289,00"], ["Senior Niet-Competitie spelers", ">1", "€ 80,00","€ 160,00"], ["Senior Competitie spelers", ">1", "€ 107,50","€ 215,00"]]
 
 - template: content-feature
